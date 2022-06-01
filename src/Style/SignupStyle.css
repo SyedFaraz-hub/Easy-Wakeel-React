@@ -1,0 +1,13 @@
+@media only screen      
+and (max-width : 1024px)  
+{ 
+
+    .bg-height-signup{
+        height: 140vh !important;
+    }
+}   
+
+
+.color-chnge:hover{
+    background-color: #c25ddb !important;
+  }

@@ -1,0 +1,28 @@
+.bg-color-pirple {
+    /* background-image: url("../Assects/bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; */
+    background-color: #98caf8;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+
+  .color-chnge {
+    border: none;
+    border-radius: 4px;
+    background-color: #9434ac;
+    color: white;
+    text-transform: uppercase;
+
+    font-weight: 500;
+    letter-spacing: 2px;
+  }
+  .color-chnge:hover {
+    background-color: #c25ddb;
+  }
+
+.form-control:focus {
+    border-color: #4ab6f5;
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.07), 0 0 8px #ae6ef7;
+  }
+  
