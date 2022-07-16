@@ -1,1 +1,3 @@
-Easy-Wakeel is a platform where we provide online solutions to your legal needs and problems. On this platform, anyone with a mobile phone or a computer with internet connection can come and gets most of his legal questions answered. On Easy-Wakeel you dont only get legal advice but also get legal information by questions answered in English languages. So, now you get solutions for most of your legal needs while sitting at home. That is Easy-Wakeel and we are continuously working to bring more services and comfort for people in our society.
+# Easy Wakeel
+
+![alt text](https://i.postimg.cc/qRygjV2j/Easy-Wakeel.png)
